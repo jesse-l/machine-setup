@@ -2,4 +2,4 @@
 
 brew install $(cat brew.dep)
 
-brew cask install $(cat brew-cask.dep)
+brew install $(cat brew-cask.dep)
